@@ -7,9 +7,9 @@ PlanMyTrip is a travel technology company that specializes in internet related s
 [Weather_Database.csv]( https://github.com/Roark23/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv), 
 [WeatherPy_vacation.csv]( https://github.com/Roark23/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation.csv)
 * **Jupyter Notebook Files:**: 
-[Weather_Database.ipynb](https://github.com/Roark23/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb), 
+[Weather_Database.ipynb]( https://github.com/Roark23/World_Weather_Analysis/blob/main/Weather_Database/Weather_database.ipynb), 
 [Vacation_Search.ipynb](https://github.com/Roark23/World_Weather_Analysis/blob/main/Vacation_Search/Vacation_Search.ipynb),
-[Vacation_Itinerary.ipynb]( https://github.com/Roark23/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
+[Vacation_Itinerary.ipynb]( https://github.com/Roark23/World_Weather_Analysis/blob/main/Vactaion_Itinerary/Vacation_Itinerary.ipynb)
 * **Python**: Python v3.7.6, Dependencies: Pandas, Matplotlib, CitiPy, SciPy, Python Requests, APIs, JSON Traversals
 
 ### Deliverable 1
