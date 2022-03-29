@@ -20,7 +20,7 @@ I generated a set of 2,000 random latitudes and longitudes to retrieve the neare
 
 This is a snapshot of the first random 10 cities generated:
 
-![List of Random Cities and Weather Data](/Weather_Database/List of Random Cities Weather Data.png)
+![List of Random Cities and Weather Data](/Weather_Database/List%20of%20Random%20Cities%20Weather%20Data.png)
 
 ## Deliverable 2
 ### Creating a Customer Travel Destinations Map
